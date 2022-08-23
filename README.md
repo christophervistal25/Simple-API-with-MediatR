@@ -7,13 +7,13 @@
 
 ## App.Core Nuget Packages
 > Mapster
-> 
+
 > MediatR
-> 
+
 > MediatR.Extensions.Microsoft.DependencyInjection
-> 
+
 > Microsoft.AspNetCore.Mvc.Core
-> 
+
 > Microsoft.EntityFrameworkCore
 
 
