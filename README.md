@@ -14,7 +14,11 @@
 
 ## App.Infrastructure Nuget Packages
 > Microsoft.EntityFrameworkCore
+
 > Microsoft.EntityFrameworkCore.Design
+
 > Microsoft.EntityFrameworkCore.Relational
+
 > Microsoft.EntityFrameworkCore.SqlServer
+
 > Microsoft.EntityFrameworkCore.Tools
