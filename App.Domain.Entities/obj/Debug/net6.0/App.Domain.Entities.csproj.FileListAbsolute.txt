@@ -1,0 +1,12 @@
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Domain.Entities\bin\Debug\net6.0\App.Domain.Entities.deps.json
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Domain.Entities\bin\Debug\net6.0\App.Domain.Entities.dll
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Domain.Entities\bin\Debug\net6.0\App.Domain.Entities.pdb
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Domain.Entities\obj\Debug\net6.0\App.Domain.Entities.csproj.AssemblyReference.cache
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Domain.Entities\obj\Debug\net6.0\App.Domain.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Domain.Entities\obj\Debug\net6.0\App.Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Domain.Entities\obj\Debug\net6.0\App.Domain.Entities.AssemblyInfo.cs
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Domain.Entities\obj\Debug\net6.0\App.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Domain.Entities\obj\Debug\net6.0\App.Domain.Entities.dll
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Domain.Entities\obj\Debug\net6.0\refint\App.Domain.Entities.dll
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Domain.Entities\obj\Debug\net6.0\App.Domain.Entities.pdb
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Domain.Entities\obj\Debug\net6.0\ref\App.Domain.Entities.dll

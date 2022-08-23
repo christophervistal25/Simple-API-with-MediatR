@@ -1,0 +1,15 @@
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Core\bin\Debug\net6.0\App.Core.deps.json
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Core\bin\Debug\net6.0\App.Core.dll
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Core\bin\Debug\net6.0\App.Core.pdb
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Core\bin\Debug\net6.0\App.Domain.Entities.dll
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Core\bin\Debug\net6.0\App.Domain.Entities.pdb
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Core\obj\Debug\net6.0\App.Core.csproj.AssemblyReference.cache
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Core\obj\Debug\net6.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Core\obj\Debug\net6.0\App.Core.AssemblyInfoInputs.cache
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Core\obj\Debug\net6.0\App.Core.AssemblyInfo.cs
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Core\obj\Debug\net6.0\App.Core.csproj.CoreCompileInputs.cache
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Core\obj\Debug\net6.0\App.Core.csproj.CopyComplete
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Core\obj\Debug\net6.0\App.Core.dll
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Core\obj\Debug\net6.0\refint\App.Core.dll
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Core\obj\Debug\net6.0\App.Core.pdb
+C:\Users\CHRis\RiderProjects\MediatR-Basic\App.Core\obj\Debug\net6.0\ref\App.Core.dll
