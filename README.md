@@ -1,11 +1,11 @@
 # Simple-API-with-MediatR
 
 
-## App.API Nuget Packages
+### App.API Nuget Packages
 
 > Microsoft.EntityFrameworkCore.Design
 
-## App.Core Nuget Packages
+### App.Core Nuget Packages
 > Mapster
 
 > MediatR
@@ -17,7 +17,7 @@
 > Microsoft.EntityFrameworkCore
 
 
-## App.Infrastructure Nuget Packages
+### App.Infrastructure Nuget Packages
 > Microsoft.EntityFrameworkCore
 
 > Microsoft.EntityFrameworkCore.Design
